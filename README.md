@@ -8,3 +8,9 @@
 
 
 ## Comparisson 
+
+## What's up?
+
+
+## GITHUB content 
+comparissin with my repo
