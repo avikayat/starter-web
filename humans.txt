@@ -3,7 +3,11 @@
 
 # TEAM
 
-    <name> Avi Kayat <twitter>
+Avi Kayat
+
+avikayata@yahoo.com
+
+SDETIII . DevOps Engineer 
 
 # THANKS
 
