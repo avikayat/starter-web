@@ -16,7 +16,7 @@ SDETIII . DevOps Engineer
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular 
-    jQuery, Modernizr, AJAX
+    jQuery, Modernizr, AJAX,Node JS
 
 
 
