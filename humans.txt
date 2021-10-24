@@ -5,6 +5,8 @@
 
 Avi Kayat
 
+Adding imporatant notes on Git Stash.
+
 avikayata@yahoo.com
 
 SDETIII . DevOps Engineer 
