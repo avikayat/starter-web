@@ -24,4 +24,7 @@ comparissin with my repo
 Ok, this is good
 
 
+Adding new lectures of stash 
+
+
 no
